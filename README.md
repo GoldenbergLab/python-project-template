@@ -4,7 +4,7 @@ This is a template for Python Projects in Goldenberg Lab. There are three folder
 - **data** All of the data stored in this repo should be located in this folder.
 - **processing** All of the code designed for processing should be saved in this folder. 
 - **analysis_modeling** should be used for analysis of processed data. 
-- 
+
 ## Requirements before running python code
 This is a template for Python Projects in Goldenberg Lab. To use this template, please:
 
