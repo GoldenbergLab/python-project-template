@@ -1,18 +1,20 @@
 # Template for all python projects 
-This is a template for Python Projects in Goldenberg Lab. As you can see there are three folders: 
+This is a template for Python Projects in Goldenberg Lab. There are three folders: 
 
 - **data** All of the data stored in this repo should be located in this folder.
 - **processing** All of the code designed for processing should be saved in this folder. 
-- **analysis_modeling** should be used for analysis of preprocessed data. 
+- **analysis_modeling** should be used for analysis of processed data. 
+- 
 ## Requirements before running python code
 This is a template for Python Projects in Goldenberg Lab. To use this template, please:
 
 - **1.** Download Anaconda and Python. We recommend starting with the latest Python version and Anaconda version. The tutorial [here](https://docs.jupyter.org/en/latest/install/notebook-classic.html) is helpful.
-- **2.** Download jupyter notebooks. While this is not a necessity, we higly recommend it. It would make it easier running the envionment installation files. ZI COMPLETE INSTRUCTIONS
+- **2.** Download jupyter notebooks. While this is not a necessity, we higly recommend it. It would make it easier running the environment installation files. ZI COMPLETE INSTRUCTIONS
 
-## Use this template if its already been crated 
+## Use this template if its already been created 
 
-**IMPORTANT NOTE** If you are using an existing repository that has already been saved by someone else. Please make sure to delete the content below 
+**IMPORTANT NOTE** If you are using an existing repository that has already been created by someone else. Please make sure to delete the content below 
+
 To use this template, click the green `Use this template` button at the top of the page. It will ask you to:
 
 ### Use this template for the first time 
