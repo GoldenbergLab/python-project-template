@@ -10,9 +10,12 @@ This is a template for Python Projects in Goldenberg Lab. To use this template, 
 - **1.** Download Anaconda and Python. We recommend starting with the latest Python version and Anaconda version. The tutorial [here](https://docs.jupyter.org/en/latest/install/notebook-classic.html) is helpful.
 - **2.** Download jupyter notebooks. While this is not a necessity, we higly recommend it. It would make it easier running the envionment installation files. ZI COMPLETE INSTRUCTIONS
 
-## Use this template 
+## Use this template if its already been crated 
+
 **IMPORTANT NOTE** If you are using an existing repository that has already been saved by someone else. Please make sure to delete the content below 
 To use this template, click the green `Use this template` button at the top of the page. It will ask you to:
+
+### Use this template for the first time 
 
 - Choose the repository's username/organization name.
     - Please set the owner of your analysis template to our lab (`GoldenbergLab`).
