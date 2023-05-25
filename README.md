@@ -72,7 +72,7 @@ To create a Python environment, you typically define its specifications in a con
 Managing Python environments is especially useful when working on complex projects, collaborating with others, or deploying your code in different environments.
 
 ---
-For more information on managing Python environments in anaconda refer to ZI ADD THE LINK
+For more information on managing Python environments in anaconda refer to [this](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
 
 ## Setting up the enviroment 
 
