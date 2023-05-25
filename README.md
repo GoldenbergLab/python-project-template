@@ -9,7 +9,7 @@ This is a template for Python Projects in Goldenberg Lab. There are three folder
 This is a template for Python Projects in Goldenberg Lab. To use this template, please:
 
 - **1.** Download Anaconda and Python. We recommend starting with the latest Python version and Anaconda version. The tutorial [here](https://docs.jupyter.org/en/latest/install/notebook-classic.html) is helpful.
-- **2.** Anaconda will automatically install Jupyter notebook. We recommend using Jupyter notebook for the analysis because it allows users to easily run code with instant feedback. 
+- **2.** Anaconda will automatically install Jupyter notebook. We recommend using Jupyter notebook for the analysis because it allows users to easily run code with instant feedback. We have also created an `environment_set_up_activation.ipynb` Jupyter notebook that will help you create your working environment.
 
 ## Use this template if its already been created 
 
