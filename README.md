@@ -9,7 +9,7 @@ This is a template for Python Projects in Goldenberg Lab. There are three folder
 This is a template for Python Projects in Goldenberg Lab. To use this template, please:
 
 - **1.** Download Anaconda and Python. We recommend starting with the latest Python version and Anaconda version. The tutorial [here](https://docs.jupyter.org/en/latest/install/notebook-classic.html) is helpful.
-- **2.** Download jupyter notebooks. While this is not a necessity, we higly recommend it. It would make it easier running the environment installation files. ZI COMPLETE INSTRUCTIONS
+- **2.** Anaconda will automatically install Jupyter notebook. We recommend using Jupyter notebook for the analysis because it allows users to easily run code with instant feedback. 
 
 ## Use this template if its already been created 
 
