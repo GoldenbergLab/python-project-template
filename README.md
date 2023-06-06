@@ -76,8 +76,8 @@ For more information on managing Python environments in anaconda refer to [this]
 
 ## Setting up the enviroment 
 
-- **1.** To set up a NEW enviroment to run the code, open the `Creating a new environment.ipynb` notebook file.
-   You can find the notebook file [here](Creating a new environment.ipynb).
-- **2.** To REPRODUCE an EXISTING ENVIRONMENT (if you are replicating code or expanding upon an already-existing analysis) navigate [here](Reproduce an existing environment.ipynb)
+- **1.** To set up a NEW enviroment to run the code, open the `Creating a new environment.ipynb` notebook file. Once you finish working on your analysis, make sure to run 
+   
+- **2.** To REPRODUCE an EXISTING ENVIRONMENT (if you are replicating code or expanding upon an already-existing analysis) navigate to the `Reproduce an existing environment.ipynb` file
 
 Once you have completed the steps designated in the file, you will have the environment set up and activated, ready to use for your project.
