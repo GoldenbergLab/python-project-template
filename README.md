@@ -76,10 +76,8 @@ For more information on managing Python environments in anaconda refer to [this]
 
 ## Setting up the enviroment 
 
-- **1.** To set up the enviroment run the code, ppen the `environment_set_up_activation.ipynb` notebook file.
-   You can find the notebook file [here](environment_set_up_activation.ipynb).
-- **2.** If you are creating a new enviroment run the notebook cells to create the enviroment and install the appropriate packages. Make sure you have anaconda otherwise the code won't run 
-- **3.** If you are using an existing repo 
-   Make sure you have the necessary dependencies installed as mentioned above.
+- **1.** To set up a NEW enviroment to run the code, open the `Creating a new environment.ipynb` notebook file.
+   You can find the notebook file [here](Creating a new environment.ipynb).
+- **2.** To REPRODUCE an EXISTING ENVIRONMENT (if you are replicating code or expanding upon an already-existing analysis) 
 
 Once you have completed the steps designated in the file, you will have the environment set up and activated, ready to use for your project.
