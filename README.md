@@ -11,13 +11,7 @@ This is a template for Python Projects in Goldenberg Lab. To use this template, 
 - **1.** Download Anaconda and Python. We recommend starting with the latest Python version and Anaconda version. The tutorial [here](https://docs.jupyter.org/en/latest/install/notebook-classic.html) is helpful.
 - **2.** Anaconda will automatically install Jupyter notebook. We recommend using Jupyter notebook for the analysis because it allows users to easily run code with instant feedback. We have also created an `environment_set_up_activation.ipynb` Jupyter notebook that will help you create your working environment.
 
-## Use this template if its already been created 
-
-**IMPORTANT NOTE** If you are using an existing repository that has already been created by someone else. Please make sure to delete the content below 
-
-To use this template, click the green `Use this template` button at the top of the page. It will ask you to:
-
-### Use this template for the first time 
+### Use this template for the first time (if you are not replicating/ adding on to an existing analysis)
 
 - Choose the repository's username/organization name.
     - Please set the owner of your analysis template to our lab (`GoldenbergLab`).
@@ -31,6 +25,13 @@ To use this template, click the green `Use this template` button at the top of t
     5. The source of the data for the analysis (Prolific, MTURK, Qualtrics, etc.)
 - Once the repository is generated, you will be redirected to it.
 
+## Setting up the enviroment 
+
+- **1.** To set up a NEW enviroment to run the code, open the `Creating a new environment.ipynb` notebook file. Once you finish working on your analysis, make sure to run `Exporting and saving your environment.ipynb` to update your environment with all of the packages.
+   
+- **2.** To REPRODUCE an EXISTING ENVIRONMENT (if you are replicating code or expanding upon an already-existing analysis) navigate to the `Reproduce an existing environment.ipynb` file
+
+Once you have completed the steps designated in the file, you will have the environment set up and activated, ready to use for your project.
 
 ### Clone the repository to your local machine
 
@@ -74,10 +75,3 @@ Managing Python environments is especially useful when working on complex projec
 ---
 For more information on managing Python environments in anaconda refer to [this](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
 
-## Setting up the enviroment 
-
-- **1.** To set up a NEW enviroment to run the code, open the `Creating a new environment.ipynb` notebook file. Once you finish working on your analysis, make sure to run `Exporting and saving your environment.ipynb` to update your environment with all of the packages.
-   
-- **2.** To REPRODUCE an EXISTING ENVIRONMENT (if you are replicating code or expanding upon an already-existing analysis) navigate to the `Reproduce an existing environment.ipynb` file
-
-Once you have completed the steps designated in the file, you will have the environment set up and activated, ready to use for your project.
