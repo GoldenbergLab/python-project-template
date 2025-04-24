@@ -28,4 +28,3 @@ This is a template for Python Projects in Goldenberg Lab. To use this template, 
     3. Your name, and the names of other who worked on it
     4. The purpose of the project and the main question you asked
     5. The source of the data for the analysis (Prolific, MTURK, Qualtrics, etc.)
-- Once the repository is generated, you will be redirected to it.
