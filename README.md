@@ -1,9 +1,14 @@
 # Template for Python Projects 
 This is a template for Python Projects in the Goldenberg Lab. There are three folders: 
 
-- **data** All of the data stored in this repo should be located in this folder.
+- **data** All of the data stored in this repo should be located in this folder. There are subfolders for raw data and processed data.
 - **processing** All of the code designed for processing should be saved in this folder. 
 - **analysis** should be used for analysis of processed data. 
+
+Your workflow should be to:
+- Place raw data in `data/raw`. **Use `.gitignore` to exclude all data, raw and processed, from Github! You should never upload any remotely sensitive data on Github.**
+- Write and run code in `processing` that takes in this raw data, does all necessary cleaning, combining, and processing, and writes processed data file(s) to `data/processed`. Again, this file should be ignored by Git.
+- Conduct your analysis, ideally in a Jupyter notebook, in `analysis`, reading in the processed data file. Visualizations should go in `analysis/img`, if you'd like to store them in the Github repo. (You may not need to include the images themselves, but code to produce any visualizations should be included in your analysis.)
 
 ## Requirements
 This is a template for Python Projects in Goldenberg Lab. To use this template, please:
