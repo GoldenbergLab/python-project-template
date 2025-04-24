@@ -9,10 +9,9 @@ This is a template for Python Projects in the Goldenberg Lab. There are three fo
 This is a template for Python Projects in Goldenberg Lab. To use this template, please:
 
 - Install Python and a version of conda (Anaconda or Miniconda). We recommend starting with the latest versions of each.
-- **You should run all of your code in a dedicated conda environment -- see this guide for using conda! (Link here)**
-- Include your conda environment in the root of this repo so collaborators and readers can reproduce your work.
+- ***You should run all of your code in a dedicated conda environment -- [see this guide on using conda!](conda_environments.md)*** When you're done, include the `environment.yml` in the root of this repo for others to use.
 
-### Use this template for the first time (if you are not replicating/ adding on to an existing analysis)
+## Use this template for the first time (if you are not replicating/ adding on to an existing analysis)
 
 - Choose the repository's username/organization name.
     - Please set the owner of your analysis template to our lab (`GoldenbergLab`).
