@@ -4,6 +4,8 @@ We use Anaconda (henceforth called *conda*) to manage package versions used for 
 
 **If you're familiar with conda already, then you can skip this guide -- just make a conda environment that covers the dependencies of the project, and include the .yml file in your repo for readers to use.**
 
+**If you're less comfortable using the terminal to set up conda, and would prefer remaining in the Jupyter interface, use the notebooks in `conda_notebooks` as a guide to run the following commands. The following guide will still likely be helpful :)**
+
 ## 0. Why use a conda environment?
 
 As you're probably aware, code in Python and R depends on importing a lot of packages, and these packages are constantly being updated. Unfortunately, this means that [a lot of published scientific code doesn't run correctly](https://datacolada.org/100)! 

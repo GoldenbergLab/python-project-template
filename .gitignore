@@ -2,3 +2,5 @@
 analysis/.ipynb_checkpoints/analysis-checkpoint.ipynb
 .DS_Store
 .DS_Store
+/anaconda_projects
+/.ipynb_checkpoints
